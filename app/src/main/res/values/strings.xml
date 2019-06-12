@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Anxious</string>
+    <string name="goal">Goal: Stop the timer as close to zero as possible without the time running out.</string>
+    <string name="run_count">Runs: %d</string>
+    <string name="best_score">Best: %s</string>
+    <string name="avg_score">Average: %s</string>
+    <string name="clock_ready">Ready?</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop!</string>
+    <string name="new_best">New Best</string>
+    <string name="failed">Failed</string>
+    <string name="about_menu">About</string>
+    <string name="about_title">Anxious %s</string>
+    <string name="about_message">Total Runs: %d\nSuccessful Runs: %d\nCurrent Streak: %d\n\nCreated by Ted O\'Connor\nhttps://toconnor.com/</string>
+</resources>
